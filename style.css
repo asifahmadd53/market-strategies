@@ -1,0 +1,15 @@
+header{
+    width: 100%;
+    position: fixed;
+    transition: .6s;
+}
+header.sticky{
+    position: fixed;
+    background: #070707;
+}
+header.sticky .logo{
+    color: aliceblue;
+}
+header.sticky a{
+    color: aliceblue;
+}
